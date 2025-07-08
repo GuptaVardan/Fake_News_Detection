@@ -27,7 +27,7 @@ To develop a model that classifies news articles as **fake** or **real** using m
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository**
 
@@ -43,6 +43,7 @@ To develop a model that classifies news articles as **fake** or **real** using m
     ```bash
     pip install -r requirements.txt
 
+---
 
 
 
