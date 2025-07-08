@@ -32,7 +32,7 @@ To develop a model that classifies news articles as **fake** or **real** using m
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/Fake_News_Prediction.git
+   git clone https://github.com/GuptaVardan/Fake_News_Detection.git
    cd Fake_News_Prediction
 
 2. **Set up the environment**
